@@ -22,4 +22,6 @@
   
  ## Jan. 31st
  ### Reflection on class discussion
-  Our discussion today on ethics and accessibility in digital humanities endeavors covered a lot of topics I was quite interested in.
+  Our discussion today on ethics and accessibility in digital humanities endeavors covered a lot of topics I was quite interested in. While we considered the roles of those in digital humanities to consist, among other things, of critically analyzing the human aspects of new technologies and their social implications, one person brought up the issue of corporate ownership and access to digital materials. This is a serious issue that digital humanities scholars and graduates will have to come to terms with; I have already worried about its effects on the ways in which we consume media such as film, music and literature. We can see within libraries and academia in general how many scholarly publications are digitized and kept behind paywalls.
+  
+  This also, however, applies to the materials we use for making digital objects, such as what we intend to do in this course. Tools for photogrammetry have appeared on the market for free only to be suddenly kept behind paywalls when the companies realized they could make a profit from the demand - Scann3D is one such example. I can't claim to have any answers to these very serious issues in the field, but the discussion certainly got me thinking more about them.

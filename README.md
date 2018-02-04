@@ -13,3 +13,13 @@
   The article seemed to make much of the possibilities of engaging with a community by not trying to digitally capture "objectively" and rather following the subjective whims of the community. I can certainly see the value in such an approach from the experiential and process perspectives, but I do wonder about its practicality. The Rhynie Woman group's concept of searching for "Art.ifacts" is certainly interesting from a theoretical standpoint. I am unsure, though, of how "accessible" their projects would be to the general public. As some of the scans/models captured did not display their objects as they would normally appear to people, they run the risk of appearing incomprensible without a guide to the goals of what the group was attempting to accomplish.
 
   How important this is will depend on context, of course; museums will probably be more concerned with access of display to public understanding than an art collective. And I do have to give the Rhynie Woman group credit for the defamiliarizing power of their project - perhaps a new "aura" can be bestowed on a cultural object when it becomes less recognizable in a new context?
+  
+## Jan. 29th
+### Reflection on lecture and discussion
+  Are computers "creative"? I've actually thought about this a fair bit on my own before this class in relation to music. A few years ago, there was a lot of hype over some of the first "AI" able to "compose" music. I can't say my reactions were particularly positive at the time - I didn't really see the point. I had wondered why someone would create a machine to take over a task (the task being music) that humans already enjoy doing themselves?
+  
+  However, when the creativity is put to more utilitarian purposes, it's probably worth my while to revisit the concept of "computer creativity". My main worries on this topic are that people will fail to recognize that there is a process behind these "creative" programs that is, at some point, organized and led by humans, bringing their own creativity to the table. In some respects, the machines will be limited in their "creativity" by the original parameters set by the human programmers. I like the analogy in the lecture about computers being "prostheses for thought", though I also recognize that because of the processes that happen within these "creative" programs, it will be harder to determine the origin points of what they produce. This comes back to the discussion of the "blurring of the lines" on the boundaries of objects.
+  
+ ## Jan. 31st
+ ### Reflection on class discussion
+  Our discussion today on ethics and accessibility in digital humanities endeavors covered a lot of topics I was quite interested in.

@@ -45,3 +45,23 @@
   One potential question as to the implications of museums becoming (as the reading suggested) "open doorways out into the world", collections of objects and artifacts that can be copied and thus manipulated: does this not still make the museum the primary gatekeeper that sets the boundaries of what the artifact is allowed to be? In one sense, opening up the possibilities of an object for manipulation is defining a sense of what it is allowed to be; it could potentially be expanding boundaries that the originators of the object might not have been comfortable with. This sounds like a lot of moral panic over the "cult of the original", but I wonder about some of its ethical implications for humans-as-artifacts.
   
   If that sounds odd, let's look at a recent example: the musician Prince died recently. But in the last month, there was talk of bringing up a hologram of Prince to "perform" at the Superbowl. This hologram is effectively a limited digitized version of Prince, a "perservation" of some part of his visual essence that is then manipulated to act in a new way. If a museum or other preservational institute could claim to "own" Prince as an important cultural object, this seems to be well within their rights, according to the article; it allows for a kind of "remix" of the artist, placing him in a new circumstance. One of Prince's bandmates, however, objected to this practice, and the hologram did not appear. Indeed, I think it would strike many of us as unethical - it certainly struck me so. So the unanswered question is: at what point is a remix infringing on one's human rights? If a deceased person's estate becomes a kind of "curator" of their possessions, to what extent should they allow others to manipulate the person's creations and presence-that-constituted-their-creations?
+  
+## Mar. 5th
+### Gaming Notes for "A Path of Honor"
+  -much of the opening paragraph was skipped
+  -the player plays as the son in a Roman family
+  -the family played an important role in leading the state
+  -the player observes their given stats at the game's outset
+  -the player is going to try a new character out of disinterest in the initial stats
+  -he points out the stats are listed along the side of the text
+  -he skims over much of the paragraph in the opening section
+  -some of the words in the gameplay were unknown to the player
+  -the player decided to serve with the army for a year
+  -the player was satisfied with the role he was given in the army
+  -the player guesses his geographical location within the Roman Empire based on information given in the text
+  -the player infers the meaning of some of the Latin words that appear in the text
+  -the player discovers that he can click any Latin word to learn its English meaning
+  -the player is confronted with three options, deliberates over them but makes a decision to let some enemy soldiers go based on a drive to continue their character's life
+  -the player finds combat in the text-based game is based more in choices of "character" rather than on technical actions; the arms employed in battle are more narrative functions than mechanical ones
+  -the player finds the story is making sense so far based on the actions taken
+  -the player noted there was only one choice present in the campaign they played through

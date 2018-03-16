@@ -53,8 +53,7 @@
   As a sort of supplementary argument to this: I base part of my arguments as to why games' graphics are important in the fact that many have claimed that a lot of games are becoming more "cinematic". If games are doing so, they are crossing over into the territory of another medium - which I think is fine! Mixed-media art can be fascinating to engage with and analyze, and I think there's a fair bit of potential in this form. However, something I am wary about is the assumption many gamers seem to make that "cinematic" games make for more "realistic" play (or that that is the goal of a more film-like approach). This is an area in which one should think very critically, both about the ways the graphics and cutscenes are designed (who designed them? with what motives? why would we consider this particular depiction of a historical person as "accurate" or "realistic"?) and about what the mechanics allow the players to do (our whole discussion about what the historical narratives woven by the rules that define these mechanics).
   
 ### Gaming Notes for "A Path of Honor"
--much of the opening paragraph was skipped
--the player plays as the son in a Roman family
+-much of the opening paragraph was skipped-the player plays as the son in a Roman family
 -the family played an important role in leading the state
 -the player observes their given stats at the game's outset
 -the player is going to try a new character out of disinterest in the initial stats

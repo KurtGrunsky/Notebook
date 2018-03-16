@@ -54,18 +54,33 @@
   
 ### Gaming Notes for "A Path of Honor"
 -much of the opening paragraph was skipped-the player plays as the son in a Roman family
+
 -the family played an important role in leading the state
+
 -the player observes their given stats at the game's outset
+
 -the player is going to try a new character out of disinterest in the initial stats
+
 -he points out the stats are listed along the side of the text
+
 -he skims over much of the paragraph in the opening section
+
 -some of the words in the gameplay were unknown to the player
+
 -the player decided to serve with the army for a year
+
 -the player was satisfied with the role he was given in the army
+
 -the player guesses his geographical location within the Roman Empire based on information given in the text
+
 -the player infers the meaning of some of the Latin words that appear in the text
+
 -the player discovers that he can click any Latin word to learn its English meaning
+
 -the player is confronted with three options, deliberates over them but makes a decision to let some enemy soldiers go based on a drive to continue their character's life
+
 -the player finds combat in the text-based game is based more in choices of "character" rather than on technical actions; the arms employed in battle are more narrative functions than mechanical ones
+
 -the player finds the story is making sense so far based on the actions taken
+
 -the player noted there was only one choice present in the campaign they played through

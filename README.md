@@ -53,20 +53,20 @@
   As a sort of supplementary argument to this: I base part of my arguments as to why games' graphics are important in the fact that many have claimed that a lot of games are becoming more "cinematic". If games are doing so, they are crossing over into the territory of another medium - which I think is fine! Mixed-media art can be fascinating to engage with and analyze, and I think there's a fair bit of potential in this form. However, something I am wary about is the assumption many gamers seem to make that "cinematic" games make for more "realistic" play (or that that is the goal of a more film-like approach). This is an area in which one should think very critically, both about the ways the graphics and cutscenes are designed (who designed them? with what motives? why would we consider this particular depiction of a historical person as "accurate" or "realistic"?) and about what the mechanics allow the players to do (our whole discussion about what the historical narratives woven by the rules that define these mechanics).
   
 ### Gaming Notes for "A Path of Honor"
-  -much of the opening paragraph was skipped
-  -the player plays as the son in a Roman family
-  -the family played an important role in leading the state
-  -the player observes their given stats at the game's outset
-  -the player is going to try a new character out of disinterest in the initial stats
-  -he points out the stats are listed along the side of the text
-  -he skims over much of the paragraph in the opening section
-  -some of the words in the gameplay were unknown to the player
-  -the player decided to serve with the army for a year
-  -the player was satisfied with the role he was given in the army
-  -the player guesses his geographical location within the Roman Empire based on information given in the text
-  -the player infers the meaning of some of the Latin words that appear in the text
-  -the player discovers that he can click any Latin word to learn its English meaning
-  -the player is confronted with three options, deliberates over them but makes a decision to let some enemy soldiers go based on a drive to continue their character's life
-  -the player finds combat in the text-based game is based more in choices of "character" rather than on technical actions; the arms employed in battle are more narrative functions than mechanical ones
-  -the player finds the story is making sense so far based on the actions taken
-  -the player noted there was only one choice present in the campaign they played through
+-much of the opening paragraph was skipped
+-the player plays as the son in a Roman family
+-the family played an important role in leading the state
+-the player observes their given stats at the game's outset
+-the player is going to try a new character out of disinterest in the initial stats
+-he points out the stats are listed along the side of the text
+-he skims over much of the paragraph in the opening section
+-some of the words in the gameplay were unknown to the player
+-the player decided to serve with the army for a year
+-the player was satisfied with the role he was given in the army
+-the player guesses his geographical location within the Roman Empire based on information given in the text
+-the player infers the meaning of some of the Latin words that appear in the text
+-the player discovers that he can click any Latin word to learn its English meaning
+-the player is confronted with three options, deliberates over them but makes a decision to let some enemy soldiers go based on a drive to continue their character's life
+-the player finds combat in the text-based game is based more in choices of "character" rather than on technical actions; the arms employed in battle are more narrative functions than mechanical ones
+-the player finds the story is making sense so far based on the actions taken
+-the player noted there was only one choice present in the campaign they played through

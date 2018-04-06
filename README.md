@@ -90,3 +90,9 @@
 -the player finds the story is making sense so far based on the actions taken
 
 -the player noted there was only one choice present in the campaign they played through
+
+## Apr. 6th
+### Reflections On This Module Overall
+  Unfortunately, I feel I have less to discuss about this particular module than any other. The article and class discussion certainly made me reconsider our portrayal of our model with regard to the "digital colonialism" problems. We continually (without thinking) referred to our object by the name given to it by the colonial archaeologists who took it from its original territory - "William". We also tended to centre our narratives about it around this colonial possession. On one hand, this might be impactful as we were trying to challenge the notion that the object is of Western "ownership" simply because it rests in a Western museum; on the other, it could potentially be seen as reducing the object to its colonial history rather than any other meaningful history it might be associated with.
+  
+  I found the articles and videos on augmented reality interesting...but their relevance felt a little more removed from what we were working on with our projects, since many of them involved completing tasks that were much more advanced than what we could have done with our relatively small amount of experience and time. This being said, I feel like they allowed us a vision of the potential of augmented reality if one was given more time to work with it. I wonder if in the future it might be better to split some of these readings up between discussions of these advanced projects (which reveal potential) and more basic "instructional" readings so that we could get a head-start on understanding how to better use these technologies.
